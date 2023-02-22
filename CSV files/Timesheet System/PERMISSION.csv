@@ -1,0 +1,5 @@
+InhouseSystemCode,EntitlementsType,Name,Description,CreatedBy,CreatedDate,IsActive,CanRequest
+UCFFlatFileTS,Permission,Administrator,Administrator,,,1,1
+UCFFlatFileTS,Permission,ProjectManager,Project Manager,,,1,1
+UCFFlatFileTS,Permission,User,Users,,,1,1
+UCFFlatFileTS,Permission,Approver,Approver,,,1,1
