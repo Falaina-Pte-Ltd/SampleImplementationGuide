@@ -1,53 +1,53 @@
 Id,EmployeeId,UserName,FirstName,MiddleName,LastName,DisplayName,FullTimeEmployee,EmployeeType,IsActive,OrganizationCode,SupervisorName,EmailId,MobileNumber,Country,JoinDate,TerminationDate,EffectiveStartDate,EffectiveEndDate,LastReportingDate,RehireDate,AssignDate,CreatedDate,LastModifiedDate,ReasonCode
-1,1,AaronJames,Aaron,,James,AaronJames,Yes,Staff,Yes,CORPORATEOFFICE,AaronJames,AaronJames@FalainaDemo.Com,60607071,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-2,2,AdamJamie,Adam,,Jamie,AdamJamie,Yes,Staff,Yes,FINANCE,AaronJames,AdamJamie@FalainaDemo.Com,60607072,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-3,3,AlexJay,Alex,,Jay,AlexJay,Yes,Staff,Yes,TECHNOLOGY,AaronJames,AlexJay@FalainaDemo.Com,60607073,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-4,4,AlexanderJayden,Alexander,,Jayden,AlexanderJayden,Yes,Staff,Yes,HR,AaronJames,AlexanderJayden@FalainaDemo.Com,60607074,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-5,5,AndrewJoe,Andrew,,Joe,AndrewJoe,Yes,Staff,Yes,LOGISTICS,AaronJames,AndrewJoe@FalainaDemo.Com,60607075,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-6,6,ArchieJoel,Archie,,Joel,ArchieJoel,Yes,Staff,Yes,SALES,AaronJames,ArchieJoel@FalainaDemo.Com,60607076,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-7,7,AshtonJohn,Ashton,,John,AshtonJohn,Yes,Staff,Yes,CORPORATE_FINANCE,AdamJamie,AshtonJohn@FalainaDemo.Com,60607077,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-8,8,BaileyJoseph,Bailey,,Joseph,,Yes,Staff,Yes,ACCOUNTS_RECEIVABLE,AdamJamie,BaileyJoseph@FalainaDemo.Com,60607078,SG,25-04-2019 00:00,23-07-2021 17:44,25-04-2019 00:00,23-07-2021 17:44,,,25-04-2019 00:00,25-04-2019 00:00,23-07-2021 17:44,OffBoard
-9,9,BenJosh,Ben,,Josh,BenJosh,Yes,Staff,Yes,ACCOUNT_PAYABLE,AdamJamie,BenJosh@FalainaDemo.Com,60607079,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-10,10,BenjaminLuke,Benjamin,,Luke,BenjaminLuke,Yes,Staff,Yes,CREDIT_MANAGEMENT,AdamJamie,BenjaminLuke@FalainaDemo.Com,60607080,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-11,11,BillyMason,Billy,,Mason,BillyMason,Yes,Staff,Yes,INFORMATION_TECHNOLOGY,AlexJay,BillyMason@FalainaDemo.Com,60607081,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-12,12,BradleyMatthew,Bradley,,Matthew,BradleyMatthew,Yes,Staff,Yes,SECURITY_OPERATIONS,AlexJay,BradleyMatthew@FalainaDemo.Com,60607082,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-13,13,BrandonMax,Brandon,,Max,BrandonMax,Yes,Staff,Yes,PROFESSIONAL_SERVICES,AlexJay,BrandonMax@FalainaDemo.Com,60607083,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-14,14,CameronMichael,Cameron,,Michael,CameronMichael,Yes,Staff,Yes,RESEARCH_AND_INFORAMTION,AlexJay,CameronMichael@FalainaDemo.Com,60607084,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-15,15,CharlesMohammad,Charles,,Mohammad,CharlesMohammad,Yes,Staff,Yes,RECRUITMENT,AlexanderJayden,CharlesMohammad@FalainaDemo.Com,60607085,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-16,16,CharlieRyan,Charlie,,Ryan,CharlieRyan,Yes,Staff,Yes,INDUSTRIAL_RELATIONS,AlexanderJayden,CharlieRyan@FalainaDemo.Com,60607086,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-17,17,ChristopherSam,Christopher,,Sam,ChristopherSam,Yes,Staff,Yes,TRAINING_AND_DEVELOPMENT,AlexanderJayden,ChristopherSam@FalainaDemo.Com,60607087,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-18,18,ConnorSamuel,Connor,,Samuel,ConnorSamuel,Yes,Staff,Yes,COMPENSATION_AND_BENIFITS,AlexanderJayden,ConnorSamuel@FalainaDemo.Com,60607088,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-19,19,CoreySean,Corey,,Sean,CoreySean,Yes,Staff,Yes,MATEERIALS_MANAGEMENT,AndrewJoe,CoreySean@FalainaDemo.Com,60607089,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-20,20,DanielSebastian,Daniel,,Sebastian,DanielSebastian,Yes,Staff,Yes,QUALITY_MANAGEMENT,AndrewJoe,DanielSebastian@FalainaDemo.Com,60607090,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-21,21,DavidTaylor,David,,Taylor,DavidTaylor,Yes,Staff,Yes,PRODUCTION_PLANNING,AndrewJoe,DavidTaylor@FalainaDemo.Com,60607091,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-22,22,DominicTheo,Dominic,,Theo,DominicTheo,Yes,Staff,Yes,LOGISTICS_CONTROLLING,AndrewJoe,DominicTheo@FalainaDemo.Com,60607092,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-23,23,DylanThomas,Dylan,,Thomas,DylanThomas,Yes,Staff,Yes,SALES_OPERATIONS,ArchieJoel,DylanThomas@FalainaDemo.Com,60607093,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-24,24,EdwardToby,Edward,,Toby,EdwardToby,Yes,Staff,Yes,SALES_SUPPORT,ArchieJoel,EdwardToby@FalainaDemo.Com,60607094,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-25,25,ElliotRobert,Elliot,,Robert,ElliotRobert,Yes,Staff,Yes,SHIPPING_TRANSPORTATION,ArchieJoel,ElliotRobert@FalainaDemo.Com,60607095,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-26,26,EthanWilliam,Ethan,,William,EthanWilliam,Yes,Staff,Yes,BILLING,ArchieJoel,EthanWilliam@FalainaDemo.Com,60607096,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
-27,27,HollieMay,Hollie,,May,Hollie May,Yes,Staff,Yes,FINANCE,AdamJamie,HollieMay@FalainaDemo.Com,60607096,SG,17-12-2020 00:00,,17-12-2020 00:00,,,,17-12-2020 00:00,17-12-2020 00:00,,NewJoinee
-28,28,James Deb,James,,Deb,James Deb,Yes,Staff,Yes,FINANCE,AdamJamie,JamesDeb@FalainaDemo.Com,60607096,SG,17-12-2020 00:00,,17-12-2020 00:00,,,,17-12-2020 00:00,17-12-2020 00:00,,NewJoinee
-29,29,LyndiGray,Lyndi,,Gray,Lyndi Gray,Yes,Staff,Yes,FINANCE,AdamJamie,JamesDeb@FalainaDemo.Com,60607096,SG,17-12-2020 00:00,,17-12-2020 00:00,,,,17-12-2020 00:00,17-12-2020 00:00,,NewJoinee
-30,30,Falaina_admin,Falaina,,Admin,Falaina Admin,Yes,Staff,Yes,FINANCE,AdamJamie,falaina_admin@FalainaDemo.Com,70907596,SG,17-12-2020 00:00,,17-12-2020 00:00,,,,17-12-2020 00:00,17-12-2020 00:00,,NewJoinee
-31,31,George,George,,Court,,Yes,Staff,Yes,SALES,AlexJay,GeorgeCourt@FalainaDemo.Com,70907596,SG,16-03-2021 00:00,,16-03-2021 00:00,,,,16-03-2021 00:00,16-03-2021 00:00,17-03-2021 12:13,ProfileUpdate
-32,32,Mark,Mark,,K,Mark K,Yes,Staff,Yes,FINANCE,AlexJay,markk@FalainaDemo.Com,70907596,SG,16-03-2021 00:00,,16-03-2021 00:00,16-03-2021 00:00,,,16-03-2021 00:00,16-03-2021 00:00,,OffBoarding
-33,33,RheaYoung,Rhea,,Young,Rhea  Young,Yes,Staff,Yes,SALES,AlexJay,Young,98786750,SG,17-03-2021 12:16,,17-03-2021 12:16,,,,17-03-2021 12:16,17-03-2021 12:25,17-03-2021 12:25,NewJoinee
-34,34,jeffery,jeffery,,jeffery,jeffery,Yes,Staff,Yes,TECHNOLOGY,AlexJay,jeffery@falainadem.com,98786110,SG,19-03-2021 12:16,,19-03-2021 12:16,19-03-2021 00:00,,,19-03-2021 12:16,19-03-2021 12:25,,OffBoarding
-35,35,MarianaPeel,Mariana,,Peel,,Yes,Staff,Yes,SALES,AlexJay,MarianaPeel@falainademo.com,98768764,SG,21-03-2021 11:02,,21-03-2021 11:02,,,,21-03-2021 11:02,21-03-2021 11:05,21-03-2021 11:36,Transfer
-36,EMPFILE36,RobynBradford,Robyn,,Bradford,Robyn  Bradford,Yes,Staff,Yes,FINANCE,AlexJay,RobynBradford@falainademo.com,98768711,SG,21-03-2021 11:22,,21-03-2021 11:22,,,,21-03-2021 11:22,21-03-2021 11:23,21-03-2021 11:23,NewJoinee
-37,EMPFILE37,HumzaBrett,Humza,,Brett,,Yes,Staff,Yes,FINANCE,AlexJay,Brett@falainademo.com,98768722,SG,21-03-2021 14:01,21-03-2021 14:26,21-03-2021 14:01,21-03-2021 14:26,,,21-03-2021 14:01,21-03-2021 14:02,23-07-2021 17:43,OffBoard
-38,EMPFILE38,NyleWilcox,Nyle,,Wilcox,Nyle  Wilcox,Yes,Staff,Yes,FINANCE,AlexJay,Wilcox@falainademo.com,94444764,SG,21-03-2021 16:09,,21-03-2021 16:09,,,,21-03-2021 16:09,21-03-2021 16:10,21-03-2021 16:10,NewJoinee
-39,EMPFILE39,FaranSanderson,Faran,,Sanderson,Faran  Sanderson,Yes,Staff,Yes,FINANCE,AlexJay,,,SG,21-03-2021 21:36,,21-03-2021 21:36,,,,21-03-2021 21:36,21-03-2021 21:37,21-03-2021 21:37,NewJoinee
-40,EMPFILE40,CherishJohn,Cherish,,John,,Yes,Staff,Yes,TECHNOLOGY,AlexJay,John@falainademo.com,98768000,SG,21-03-2021 21:45,,21-03-2021 21:45,,,,21-03-2021 21:45,21-03-2021 21:45,22-03-2021 16:10,Transfer
-41,EMPFILE41,AleenaBeattie,Aleena,,Beattie,,Yes,Staff,Yes,TECHNOLOGY,AlexJay,,,SG,22-03-2021 15:33,,22-03-2021 15:33,,,,22-03-2021 15:33,22-03-2021 15:33,22-03-2021 15:59,Transfer
-42,EMPFILE42,YassinRedfern,Yassin,,Redfern,Yassin  Redfern,Yes,Staff,Yes,FINANCE,AlexJay,YassinRedfern@falainademo.com,98768743,SG,23-03-2021 17:16,,23-03-2021 17:16,,,,23-03-2021 17:16,23-03-2021 17:18,23-03-2021 17:18,NewJoinee
-43,EMPFILE43,ShyamCp,Shyam,Curtis,p,,Yes,Staff,Yes,TECHNOLOGY,AlexJay,Shyam@falainademo.com,98786752,SG,04-04-2021 11:38,,04-04-2021 11:38,,,,04-04-2021 11:38,04-04-2021 11:42,04-04-2021 12:09,Transfer
-44,EMPFILE44,LuciChester,Luci,,Chester,,Yes,Staff,Yes,TECHNOLOGY,AlexJay,LuciChester@falainademo.com,98786754,SG,08-04-2021 18:03,,08-04-2021 18:03,,,,08-04-2021 18:03,08-04-2021 18:04,08-04-2021 18:33,Transfer
-45,EMPFILE45,AndrewHorn,Andrew,,Horn,,Yes,Staff,Yes,TECHNOLOGY,AlexJay,,,SG,08-04-2021 19:45,,08-04-2021 19:45,,,,08-04-2021 19:45,08-04-2021 19:46,08-04-2021 20:11,Transfer
-46,EMPFILE46,FreyjaBeach,Freyja,,Beach,,Yes,Staff,Yes,TECHNOLOGY,AlexJay,FreyjaBeach@falainademo.com,98786757,SG,15-04-2021 21:59,27-07-2021 11:28,15-04-2021 21:59,27-07-2021 11:28,,,15-04-2021 21:59,15-04-2021 22:00,27-07-2021 11:30,OffBoard
-47,EMPFILE47,MillaNguyen,Milla,,Nguyen,Milla  Nguyen,Yes,Staff,Yes,TECHNOLOGY,AlexJay,MillaNguyen@falainademo.com,98786744,SG,16-04-2021 15:49,,16-04-2021 15:49,,,,16-04-2021 15:49,16-04-2021 15:50,16-04-2021 15:50,NewJoinee
-48,EMPFILE48,LeonaNoble,Leona,,Noble,Leona  Noble,Yes,Staff,Yes,TECHNOLOGY,AlexJay,,,SG,16-04-2021 16:19,,16-04-2021 16:19,,,,16-04-2021 16:19,16-04-2021 16:19,16-04-2021 16:19,NewJoinee
-49,EMPFILE49,LukeJames,Luke,,James,Luke  James,Yes,Staff,Yes,FINANCE,AlexJay,,,SG,30-04-2021 16:00,,30-04-2021 16:00,,,,30-04-2021 16:00,30-04-2021 16:00,30-04-2021 16:00,NewJoinee
-50,EMPFILE50,RaveenAli,Raveen,,Ali,Raveen  Ali,Yes,Staff,Yes,SALES,AaronJames,,9994412345,SG,19-05-2022 12:06,,19-05-2021 12:06,,,,19-05-2022 12:06,19-05-2022 12:06,19-05-2021 12:06,Transfer
-51,98765,ElsaAnn,Elsa,,Ann,Elsa Ann,Yes,Staff,Yes,SALES,AlexJay,ElsaAnn@falainacloud.com,1012345611,SG,19-05-2022 12:06,,19-05-2021 12:06,,,,19-05-2022 12:06,19-05-2022 12:06,19-05-2021 12:06,NewJoinee
-52,67891,MilyMark,Mily,,Mark,Mily Mark,Yes,Staff,Yes,TECHNOLOGY,AlexJay,MilyMark@falainacloud.com,1012345671,SG,19-05-2022 12:06,,19-05-2021 12:06,,,,19-05-2022 12:06,19-05-2022 12:06,19-05-2021 12:06,NewJoinee
+1,1,AaronJames,Aaron,,James,AaronJames,Yes,Staff,Yes,CORPORATEOFFICE,AaronJames,AaronJames@ContosoCorp.com,60607071,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+2,2,AdamJamie,Adam,,Jamie,AdamJamie,Yes,Staff,Yes,FINANCE,AaronJames,AdamJamie@ContosoCorp.com,60607072,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+3,3,AlexJay,Alex,,Jay,AlexJay,Yes,Staff,Yes,TECHNOLOGY,AaronJames,AlexJay@ContosoCorp.com,60607073,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+4,4,AlexanderJayden,Alexander,,Jayden,AlexanderJayden,Yes,Staff,Yes,HR,AaronJames,AlexanderJayden@ContosoCorp.com,60607074,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+5,5,AndrewJoe,Andrew,,Joe,AndrewJoe,Yes,Staff,Yes,LOGISTICS,AaronJames,AndrewJoe@ContosoCorp.com,60607075,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+6,6,ArchieJoel,Archie,,Joel,ArchieJoel,Yes,Staff,Yes,SALES,AaronJames,ArchieJoel@ContosoCorp.com,60607076,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+7,7,AshtonJohn,Ashton,,John,AshtonJohn,Yes,Staff,Yes,CORPORATE_FINANCE,AdamJamie,AshtonJohn@ContosoCorp.com,60607077,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+8,8,BaileyJoseph,Bailey,,Joseph,,Yes,Staff,Yes,ACCOUNTS_RECEIVABLE,AdamJamie,BaileyJoseph@ContosoCorp.com,60607078,SG,25-04-2019 00:00,23-07-2021 17:44,25-04-2019 00:00,23-07-2021 17:44,,,25-04-2019 00:00,25-04-2019 00:00,23-07-2021 17:44,OffBoard
+9,9,BenJosh,Ben,,Josh,BenJosh,Yes,Staff,Yes,ACCOUNT_PAYABLE,AdamJamie,BenJosh@ContosoCorp.com,60607079,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+10,10,BenjaminLuke,Benjamin,,Luke,BenjaminLuke,Yes,Staff,Yes,CREDIT_MANAGEMENT,AdamJamie,BenjaminLuke@ContosoCorp.com,60607080,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+11,11,BillyMason,Billy,,Mason,BillyMason,Yes,Staff,Yes,INFORMATION_TECHNOLOGY,AlexJay,BillyMason@ContosoCorp.com,60607081,SG,25-04-2019 00:00,23-12-2022 17:44,25-04-2019 00:00,23-12-2022 17:44,,,25-04-2019 00:00,25-04-2019 00:00,23-12-2022 17:44,OffBoard
+12,12,BradleyMatthew,Bradley,,Matthew,BradleyMatthew,Yes,Staff,Yes,SECURITY_OPERATIONS,AlexJay,BradleyMatthew@ContosoCorp.com,60607082,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+13,13,BrandonMax,Brandon,,Max,BrandonMax,Yes,Staff,Yes,PROFESSIONAL_SERVICES,AlexJay,BrandonMax@ContosoCorp.com,60607083,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+14,14,CameronMichael,Cameron,,Michael,CameronMichael,Yes,Staff,Yes,RESEARCH_AND_INFORAMTION,AlexJay,CameronMichael@ContosoCorp.com,60607084,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+15,15,CharlesMohammad,Charles,,Mohammad,CharlesMohammad,Yes,Staff,Yes,RECRUITMENT,AlexanderJayden,CharlesMohammad@ContosoCorp.com,60607085,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+16,16,CharlieRyan,Charlie,,Ryan,CharlieRyan,Yes,Staff,Yes,INDUSTRIAL_RELATIONS,AlexanderJayden,CharlieRyan@ContosoCorp.com,60607086,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+17,17,ChristopherSam,Christopher,,Sam,ChristopherSam,Yes,Staff,Yes,TRAINING_AND_DEVELOPMENT,AlexanderJayden,ChristopherSam@ContosoCorp.com,60607087,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+18,18,ConnorSamuel,Connor,,Samuel,ConnorSamuel,Yes,Staff,Yes,COMPENSATION_AND_BENIFITS,AlexanderJayden,ConnorSamuel@ContosoCorp.com,60607088,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+19,19,CoreySean,Corey,,Sean,CoreySean,Yes,Staff,Yes,MATEERIALS_MANAGEMENT,AndrewJoe,CoreySean@ContosoCorp.com,60607089,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+20,20,DanielSebastian,Daniel,,Sebastian,DanielSebastian,Yes,Staff,Yes,QUALITY_MANAGEMENT,AndrewJoe,DanielSebastian@ContosoCorp.com,60607090,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+21,21,DavidTaylor,David,,Taylor,DavidTaylor,Yes,Staff,Yes,PRODUCTION_PLANNING,AndrewJoe,DavidTaylor@ContosoCorp.com,60607091,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+22,22,DominicTheo,Dominic,,Theo,DominicTheo,Yes,Staff,Yes,LOGISTICS_CONTROLLING,AndrewJoe,DominicTheo@ContosoCorp.com,60607092,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+23,23,DylanThomas,Dylan,,Thomas,DylanThomas,Yes,Staff,Yes,SALES_OPERATIONS,ArchieJoel,DylanThomas@ContosoCorp.com,60607093,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+24,24,EdwardToby,Edward,,Toby,EdwardToby,Yes,Staff,Yes,SALES_SUPPORT,ArchieJoel,EdwardToby@ContosoCorp.com,60607094,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+25,25,ElliotRobert,Elliot,,Robert,ElliotRobert,Yes,Staff,Yes,SHIPPING_TRANSPORTATION,ArchieJoel,ElliotRobert@ContosoCorp.com,60607095,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+26,26,EthanWilliam,Ethan,,William,EthanWilliam,Yes,Staff,Yes,BILLING,ArchieJoel,EthanWilliam@ContosoCorp.com,60607096,SG,25-04-2019 00:00,,25-04-2019 00:00,,,,25-04-2019 00:00,25-04-2019 00:00,,NewJoinee
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
